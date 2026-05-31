@@ -21,7 +21,7 @@ from database import (
 
 import asyncio
 
-TOKEN = "8417464781:AAG_OXvltdXcUPXl1y9TwfArJg2Pz5vDcvU"
+TOKEN = "Сюда токен надо свой не дам:)"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
